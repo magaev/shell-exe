@@ -1,2 +1,1 @@
-echo salut
-
+echo "im a script"
